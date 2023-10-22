@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rockhead28
 - 👀 I’m interested in automating mundane daily work into code
-- 🌱 I’m currently learning Python (begineer level)
+- 🌱 I’m currently learning Python (beginner level)
 - 💞️ I’m looking to collaborate on...nothing for now. But if you know how to do web scraping, please reach out to me. I'm looking for a master =)
 - 📫 How to reach me at ivancjv78@gmail.com
 
